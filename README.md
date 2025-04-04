@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shaivansh Bhardwaj 👋</h1>
+<h1 align="center">Hey, I'm Shivansh Bhardwaj 👋</h1>
 
 <p align="center"><b>Web Developer | Building Scalable & Performant Applications</b></p>
 
